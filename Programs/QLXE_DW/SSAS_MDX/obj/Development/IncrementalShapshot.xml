@@ -1,0 +1,89 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>SSAS_MDX</Database>
+    <Server>PHAMTUANDAT\TUANDAT</Server>
+    <ConnectionString>Data Source=PHAMTUANDAT\TUANDAT;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>+1Qj9TmsuWT5lnztiYWbTeSQiK8=14-May-22 9:46:30 AM14-May-22 9:46:30 AM</TimeStamp>
+        <ID>
+          <String>QLXE WAREHOUSE</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>mD/rOKFmEKbwaeiatmkGMhMK2Xg=14-May-22 9:46:51 AM14-May-22 9:46:51 AM</TimeStamp>
+        <ID>
+          <String>QLXE WAREHOUSE</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>EW+SrgjK5Q/Zzv6mRZJzHn6MXpk=14-May-22 9:48:06 AM14-May-22 9:47:12 AM</TimeStamp>
+        <ID>
+          <String>Dim Nhan Vien</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>Bf5LVhPQg4A8Fcg6h2aLLWgkXSg=14-May-22 9:48:06 AM14-May-22 9:47:12 AM</TimeStamp>
+        <ID>
+          <String>Dim Khach Hang</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>dyBPWRx1RpKcqLb+Q2rTiboZrtU=14-May-22 9:48:06 AM14-May-22 9:47:12 AM</TimeStamp>
+        <ID>
+          <String>Dim Xe</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>mHx/veaRx2gkF9IZvFN6ukCDH1M=14-May-22 9:52:02 AM14-May-22 9:47:12 AM</TimeStamp>
+        <ID>
+          <String>Dim Thoi Gian</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>HpJXeZ4fKjHAVQ8E8VwBeIWUXs0=14-May-22 9:48:06 AM14-May-22 9:47:12 AM</TimeStamp>
+        <ID>
+          <String>Dim Chi Nhanh</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>syQjA6I2EG/6yrix1es6bUXJ6qQ=14-May-22 9:54:21 AM14-May-22 9:47:12 AMgK0fmpt6WOqUvwZB1Y6/wGxmXeE=14-May-22 9:54:21 AM14-May-22 9:47:12 AM</TimeStamp>
+        <ID>
+          <String>QLXE WAREHOUSE</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>kRTed4jFDFTogVuhr6cdg6iN254=14-May-22 9:40:12 AM14-May-22 9:40:12 AM</TimeStamp>
+      <ID>
+        <String>SSAS_MDX</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2022-05-14T02:55:22.013333Z</LastDeployed>
+</DeploymentSnapshot>

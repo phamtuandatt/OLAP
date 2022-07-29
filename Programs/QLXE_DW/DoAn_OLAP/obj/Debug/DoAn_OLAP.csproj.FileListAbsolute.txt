@@ -1,0 +1,240 @@
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\DoAn_OLAP.exe.config
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\DoAn_OLAP.exe
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\DoAn_OLAP.pdb
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.AnalysisServices.SPClient.Interfaces.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.AnalysisServices.AdomdClient.xml
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.AnalysisServices.SPClient.Interfaces.xml
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\ar\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\bg\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\ca\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\cs\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\da\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\de\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\el\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\es\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\et\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\eu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\fi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\fr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\gl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\he\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\hi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\hr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\hu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\id\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\it\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\ja\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\kk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\ko\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\lt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\lv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\ms\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\nl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\no\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\pl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\pt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\pt-PT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\ro\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\ru\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\sk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\sl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\sr-Cyrl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\sr-Latn\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\sv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\th\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\tr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\uk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\vi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\zh-HANS\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\bin\Debug\zh-HANT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.csproj.AssemblyReference.cache
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.Properties.Resources.resources
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.csproj.GenerateResource.cache
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.csproj.CoreCompileInputs.cache
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.csproj.CopyComplete
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.exe
+C:\Users\TUAN DAT\Desktop\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.pdb
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\DoAn_OLAP.exe.config
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\DoAn_OLAP.exe
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\DoAn_OLAP.pdb
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.AnalysisServices.SPClient.Interfaces.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.AnalysisServices.AdomdClient.xml
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.AnalysisServices.SPClient.Interfaces.xml
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\ar\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\bg\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\ca\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\cs\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\da\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\de\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\el\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\es\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\et\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\eu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\fi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\fr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\gl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\he\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\hi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\hr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\hu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\id\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\it\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\ja\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\kk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\ko\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\lt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\lv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\ms\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\nl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\no\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\pl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\pt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\pt-PT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\ro\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\ru\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\sk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\sl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\sr-Cyrl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\sr-Latn\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\sv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\th\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\tr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\uk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\vi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\zh-HANS\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\zh-HANT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.csproj.AssemblyReference.cache
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.Properties.Resources.resources
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.csproj.GenerateResource.cache
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.csproj.CoreCompileInputs.cache
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.csproj.CopyComplete
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.exe
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.pdb
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.GUI.Main.resources
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.GUI.DoanhThu.resources
+D:\Study\OLAP\1_DoAn\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.GUI.TruyVanMDX.resources
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\DoAn_OLAP.exe.config
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\DoAn_OLAP.exe
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\DoAn_OLAP.pdb
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.AnalysisServices.SPClient.Interfaces.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.AnalysisServices.AdomdClient.xml
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.AnalysisServices.SPClient.Interfaces.xml
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\ar\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\bg\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\ca\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\cs\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\da\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\de\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\el\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\es\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\et\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\eu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\fi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\fr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\gl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\he\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\hi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\hr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\hu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\id\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\it\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\ja\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\kk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\ko\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\lt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\lv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\ms\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\nl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\no\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\pl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\pt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\pt-PT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\ro\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\ru\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\sk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\sl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\sr-Cyrl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\sr-Latn\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\sv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\th\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\tr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\uk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\vi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\zh-HANS\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\zh-HANT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.GUI.DoanhThu.resources
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.GUI.Main.resources
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.GUI.TruyVanMDX.resources
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.Properties.Resources.resources
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.csproj.GenerateResource.cache
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.csproj.CoreCompileInputs.cache
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.csproj.CopyComplete
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.exe
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.pdb
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\obj\Debug\DoAn_OLAP.csproj.AssemblyReference.cache
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\EnvDTE.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\stdole.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\Microsoft.MSXML.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\OLAP\1_DoAn\Programs\QLXE_DW\DoAn_OLAP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
